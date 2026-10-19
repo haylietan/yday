@@ -56,6 +56,9 @@ Given the 3 tasks, Joey was able to succesfully complete 2/3 of them. Namely, sh
 **Debrief:**
 Joey rated the app a 2/5 in terms of difficulty. She mentioned that at a glance, she was not sure what the purpose of the app was. For instance, she was not sure where to navigate and the naming conventions and features weren't intuitive to her as she wasn't sure what they did. She suggested adding a help icon or some sort of tutorial to aid the user in getting started. Joey also suggested adding more descriptive captionings like naming the tabs different names (instead of Dial). To her, she thinks of a dial as a tool used to change the time or temperature than as a social feature. 
 
+**Interview:**
+https://youtu.be/8ZefotWGCpw 
+
 ### User: Grace Macasaet (Friend)
 **5 Second Test:**
 Upon first glance, Grace found the app to be a vlogging/logging app. She understood that it functions to record your day.
@@ -65,6 +68,9 @@ Grace was able to complete all 3 tasks I gave him (recording a vlog, exporting t
 
 **Debrief:** 
 Grace mentioned feeling a little worried about the permenancy and feature that prevents users from re-taking their vlogs. She rated the app a 2/5 on difficulty. She felt it was a little convoluted due to the large amount of text.
+
+**Interview:**
+https://youtu.be/w6bVoXdz-Ok 
 
 ## Patterns Among Users
 I noticed the majority of the users did not understand what the "Dial" tab was for. There was also some confusion with the "2s take" tab as well. The older testers (above 50) were very confused on the app and did not know where to start at all. The other 3 testers (in their 20s), were able to easily navigate the app and figure out how to complete the tasks. This is largely because the app is targeted towards Gen z/the younger audience. One of the users mentioned it felt intuitive since it resembles the structure of other social media apps like Tiktok.
